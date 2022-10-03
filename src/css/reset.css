@@ -125,3 +125,11 @@ table {
 a {
   text-decoration: none;
 }
+
+body {
+  /* background-color: rgb(245, 199, 206); */
+  font-family: none;
+  background: #6b0000;
+
+  color: transparent;
+}
